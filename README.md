@@ -2,6 +2,6 @@ Python
 ======
 
 basic Python tips
+################################################
 
-# To show the list of installed modules
-help('modules')
+help('modules') # To show the list of installed modules
