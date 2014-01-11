@@ -1,6 +1,6 @@
 Python Basic Tips
 ==================
 
-To show the list of installed modules
+1. To show the list of installed modules
 
 help('modules')
