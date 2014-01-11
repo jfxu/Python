@@ -1,7 +1,4 @@
-Python
-======
+Python Basic Tips
+==================
 
-basic Python tips
-################################################
-
-help('modules') # To show the list of installed modules
+help('modules')          # To show the list of installed modules
